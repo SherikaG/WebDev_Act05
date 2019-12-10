@@ -1,0 +1,32 @@
+body{
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.logo{
+	position:absolute;
+    top: 25px;
+    left: 25px;
+    z-index: 2;
+}
+.centered {
+  position: absolute;
+  top: 20%;
+  left: 30%;
+  color: #FFFFFF;
+  text-transform: capitalize;
+}
+.box{
+	border: 1px solid pink;
+	background-color: #E65B7A;
+	width: 1290px;
+	height: 5px;
+	padding: 30px;
+	color: #FFFFFF;
+	margin-top: -60px; 
+	margin-bottom: 20px;
+}
+h1{
+	font-size: 80px;
+	font-family: Apple Chancery;
+	font-style: italic;
+}
